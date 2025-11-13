@@ -1,0 +1,30 @@
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\appsettings.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\Class  3.staticwebassets.endpoints.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\Class  3.exe
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\Class  3.deps.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\Class  3.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\Class  3.dll
+C:\Users\asp.APTECHNK1\Desktop\Class  3\bin\Debug\net8.0\Class  3.pdb
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.RazorAssemblyInfo.cache
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.RazorAssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\scopedcss\bundle\Class  3.styles.css
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.dll
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\refint\Class  3.dll
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.pdb
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\Class  3.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\Class  3\obj\Debug\net8.0\ref\Class  3.dll
